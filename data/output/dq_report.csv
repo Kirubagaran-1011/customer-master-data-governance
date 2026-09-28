@@ -1,0 +1,9 @@
+rule_id,rule_name,dimension,pass_pct_before,pass_pct_after,failed_before,failed_after
+DQ01,Full name is present,Completeness,100.0,100.0,0,0
+DQ02,Email is present,Completeness,90.6,98.3,12,1
+DQ03,Email format is valid,Validity,20.0,100.0,92,0
+DQ04,Phone is present,Completeness,93.7,96.7,8,2
+DQ05,Phone is standard 10-digit format,Validity,12.6,100.0,104,0
+DQ06,City uses standard name and casing,Consistency,33.1,100.0,85,0
+DQ07,Country uses standard name (India),Consistency,21.1,100.0,97,0
+DQ08,Email is unique (no duplicate customers),Uniqueness,26.1,100.0,85,0

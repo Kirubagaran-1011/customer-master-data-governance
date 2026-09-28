@@ -1,0 +1,61 @@
+master_id,full_name,email,phone,city,country,customer_since,source_record_count,source_records
+M0001,Indhu Selvam,indhu.selvam@gmail.com,9629802621,Bengaluru,India,2025-08-08,1,CRM:C1000
+M0002,Nisha Kumar,nisha.kumar@yahoo.com,9063480660,Madurai,India,2021-04-07,2,CRM:C1001; SALES:S5000
+M0003,Arun Selvam,arun.selvam@gmail.com,9114808806,Bengaluru,India,2021-02-25,3,CRM:C1002; SALES:S5001; SUPPORT:U9000
+M0004,Lakshmi Priya,lakshmi.priya@gmail.com,9424039274,Coimbatore,India,2025-11-23,1,CRM:C1003
+M0005,Divya Kumar,divya.kumar@yahoo.com,9295570558,Tiruchirappalli,India,2021-09-03,2,CRM:C1004; SALES:S5002
+M0006,Charan Kumar,charan.kumar@gmail.com,9084955006,Bengaluru,India,2025-06-09,2,CRM:C1005; SALES:S5003
+M0007,Divya Selvam,divya.selvam@gmail.com,9321649906,Bengaluru,India,2021-02-18,2,CRM:C1006; SALES:S5004
+M0008,Manoj Kumar,manoj.kumar@gmail.com,9130224539,Bengaluru,India,2021-11-27,2,CRM:C1007; SUPPORT:U9001
+M0009,Lakshmi Vel,lakshmi.vel@outlook.com,9182871223,Madurai,India,2025-08-09,2,CRM:C1008; SALES:S5005
+M0010,Gowri Anand,gowri.anand@gmail.com,9420762754,Chennai,India,2021-02-23,3,CRM:C1009; SALES:S5006; SUPPORT:U9002
+M0011,Gowri Karthik,gowri.karthik@gmail.com,9851138788,Tiruchirappalli,India,2022-11-04,3,CRM:C1010; SALES:S5007; SUPPORT:U9003
+M0012,Elango Prakash,elango.prakash@yahoo.com,9979217141,Madurai,India,2024-11-28,2,CRM:C1011; SALES:S5008
+M0013,Charan Vel,charan.vel@outlook.com,9173041938,Tiruchirappalli,India,2022-01-22,3,CRM:C1012; SALES:S5009; SUPPORT:U9004
+M0014,Kavin Priya,kavin.priya@gmail.com,9207356830,Madurai,India,2022-10-09,2,CRM:C1013; SALES:S5010
+M0015,Gowri Ramesh,gowri.ramesh@gmail.com,9473653527,Chennai,India,2025-09-22,3,CRM:C1014; SALES:S5011; SUPPORT:U9005
+M0016,Indhu Priya,indhu.priya@outlook.com,9630633873,Madurai,India,2024-06-13,2,CRM:C1015; SALES:S5012
+M0017,Kavin Mohan,kavin.mohan@outlook.com,9149696350,Madurai,India,2022-07-26,2,CRM:C1016; SUPPORT:U9006
+M0018,Jeeva Devi,jeeva.devi@outlook.com,9346579762,Bengaluru,India,2023-02-27,3,CRM:C1017; SALES:S5013; SUPPORT:U9007
+M0019,Lakshmi Anand,lakshmi.anand@gmail.com,9210248046,Tiruchirappalli,India,2024-08-13,1,CRM:C1018
+M0020,Bala Sekar,bala.sekar@gmail.com,9688872864,Bengaluru,India,2022-02-15,2,CRM:C1019; SUPPORT:U9008
+M0021,Hari Sekar,hari.sekar@gmail.com,9553748849,Coimbatore,India,2022-12-28,2,CRM:C1020; SUPPORT:U9009
+M0022,Jeeva Sekar,jeeva.sekar@yahoo.com,9782742472,Madurai,India,2023-09-03,3,CRM:C1021; SALES:S5014; SUPPORT:U9010
+M0023,Gowri Sekar,gowri.sekar@gmail.com,9312434083,Bengaluru,,2021-10-13,1,CRM:C1022
+M0024,Lakshmi Kumar,lakshmi.kumar@yahoo.com,,Madurai,India,2024-08-01,1,CRM:C1023
+M0025,Indhu Sundar,,9641416035,Chennai,India,2021-11-14,1,CRM:C1024
+M0026,Divya Sundar,divya.sundar@gmail.com,9032373782,Chennai,India,2024-01-24,2,CRM:C1025; SALES:S5015
+M0027,Indhu Devi,indhu.devi@outlook.com,9209002862,Coimbatore,India,2021-10-07,3,CRM:C1026; SALES:S5016; SUPPORT:U9011
+M0028,Lakshmi Devi,lakshmi.devi@yahoo.com,9716718910,Madurai,India,2025-11-13,2,CRM:C1027; CRM:C1064
+M0029,Manoj Sekar,manoj.sekar@yahoo.com,9066178619,Chennai,India,2023-09-14,1,CRM:C1028
+M0030,Bala Nathan,bala.nathan@outlook.com,9538819687,Coimbatore,India,2022-12-17,3,CRM:C1029; CRM:C1060; SALES:S5017
+M0031,Om Ramesh,om.ramesh@outlook.com,9854472880,Coimbatore,India,2022-08-19,3,CRM:C1030; SALES:S5018; SUPPORT:U9012
+M0032,Farida Anand,farida.anand@outlook.com,9343432258,Bengaluru,India,2021-09-07,3,CRM:C1031; SALES:S5019; SUPPORT:U9013
+M0033,Arun Murugan,arun.murugan@gmail.com,9452474024,Tiruchirappalli,India,2023-11-19,2,CRM:C1032; SUPPORT:U9014
+M0034,Charan Sekar,charan.sekar@yahoo.com,9547372211,Chennai,India,2025-12-06,2,CRM:C1033; SALES:S5020
+M0035,Om Sundar,om.sundar@gmail.com,9479521121,Chennai,India,2025-03-09,3,CRM:C1034; CRM:C1063; SUPPORT:U9015
+M0036,Arun Devi,arun.devi@gmail.com,9296710243,Chennai,India,2023-08-04,3,CRM:C1035; SALES:S5021; SUPPORT:U9016
+M0037,Charan Nathan,charan.nathan@gmail.com,9060153917,Bengaluru,India,2025-10-08,1,CRM:C1036
+M0038,Nisha Priya,nisha.priya@outlook.com,9925450907,Tiruchirappalli,India,2023-11-03,3,CRM:C1037; SALES:S5022; SUPPORT:U9017
+M0039,Arun Priya,arun.priya@gmail.com,9514640228,Chennai,India,2022-05-26,2,CRM:C1038; SUPPORT:U9018
+M0040,Bala Kumar,bala.kumar@outlook.com,9811212107,Bengaluru,India,2025-05-15,2,CRM:C1039; SALES:S5023
+M0041,Elango Kumar,elango.kumar@gmail.com,9342545876,Chennai,India,2021-04-22,2,CRM:C1040; SALES:S5024
+M0042,Farida Nathan,farida.nathan@outlook.com,9962074691,Bengaluru,India,2024-11-27,2,CRM:C1041; SUPPORT:U9019
+M0043,Nisha Vel,nisha.vel@yahoo.com,9336836298,Bengaluru,India,2021-08-03,2,CRM:C1042; SUPPORT:U9020
+M0044,Farida Selvam,farida.selvam@yahoo.com,9178808405,Bengaluru,India,2024-11-15,2,CRM:C1043; CRM:C1061
+M0045,Hari Murugan,hari.murugan@gmail.com,9594619621,Bengaluru,India,2021-09-14,2,CRM:C1044; SALES:S5025
+M0046,Nisha Selvam,nisha.selvam@gmail.com,9418475289,Tiruchirappalli,India,2024-09-05,2,CRM:C1045; SALES:S5026
+M0047,Jeeva Kumar,jeeva.kumar@yahoo.com,9588274958,Madurai,India,2023-10-19,3,CRM:C1046; CRM:C1062; SALES:S5027
+M0048,Jeeva Mohan,jeeva.mohan@outlook.com,9443739892,Coimbatore,India,2022-07-02,2,CRM:C1047; SUPPORT:U9021
+M0049,Elango Nathan,elango.nathan@yahoo.com,9783689405,Bengaluru,India,2023-02-28,1,CRM:C1048
+M0050,Farida Karthik,farida.karthik@yahoo.com,9901890726,Coimbatore,India,2021-06-28,2,CRM:C1049; SUPPORT:U9022
+M0051,Gowri Mohan,gowri.mohan@outlook.com,9968456262,Tiruchirappalli,India,2021-07-04,3,CRM:C1050; SALES:S5028; SUPPORT:U9023
+M0052,Arun Anand,arun.anand@outlook.com,9469072315,Bengaluru,India,2022-03-06,1,CRM:C1051
+M0053,Jeeva Priya,jeeva.priya@gmail.com,9629142208,Madurai,India,2025-03-03,3,CRM:C1052; SALES:S5029; SUPPORT:U9024
+M0054,Nisha Raj,nisha.raj@yahoo.com,9296439813,Madurai,India,2025-05-23,3,CRM:C1053; SALES:S5030; SUPPORT:U9025
+M0055,Arun Karthik,arun.karthik@yahoo.com,9308799789,Tiruchirappalli,India,2025-06-08,2,CRM:C1054; SALES:S5031
+M0056,Arun Vel,arun.vel@outlook.com,9277610607,Chennai,India,2025-06-24,2,CRM:C1055; SUPPORT:U9026
+M0057,Charan Ramesh,charan.ramesh@gmail.com,9342783521,Coimbatore,India,2023-12-28,2,CRM:C1056; CRM:C1065
+M0058,Farida Murugan,farida.murugan@yahoo.com,9919879983,Coimbatore,India,2021-05-18,2,CRM:C1057; SALES:S5032
+M0059,Elango Raj,elango.raj@gmail.com,,Bengaluru,India,2023-10-08,1,CRM:C1058
+M0060,Jeeva Anand,jeeva.anand@outlook.com,9893419340,Bengaluru,India,2022-07-15,2,CRM:C1059; SALES:S5033
